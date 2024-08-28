@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100dvh;
+    padding: 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0;
+    background-color: var(--background-color);
+    color: var(--primary-text-color);
+  }
